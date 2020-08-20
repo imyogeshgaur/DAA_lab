@@ -5,6 +5,7 @@ int partition(int[],int,int);
  
 int main()
 {
+	printf("Name : Yogesh Gaur \n Roll No: 1816110248 \n");
 	int a[50],n,i;
 	printf("Enter the Size of Array : \n");
 	scanf("%d",&n);

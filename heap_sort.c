@@ -37,7 +37,8 @@ heapify(arr, i, 0);
 }  
   
 void main()  
-{  
+{ 
+printf("Name : Yogesh Gaur \n Roll No: 1816110248 \n"); 
 int arr[100],i,size; 
 printf("enter the Size Of Array :\n");
 scanf("%d",&size);
